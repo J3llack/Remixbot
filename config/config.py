@@ -218,7 +218,7 @@ autoclean = []
 
 # Images
 
-START_IMG_URL = getenv("START_IMG_URL", None)
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/0f98cb2a074cef7e30af1.jpg")
 
 PING_IMG_URL = getenv(
 
@@ -232,7 +232,7 @@ PLAYLIST_IMG_URL = getenv(
 
     "PLAYLIST_IMG_URL",
 
-    "assets/Playlist.jpeg",
+    "https://graph.org/file/0f98cb2a074cef7e30af1.jpg",
 
 )
 
@@ -240,7 +240,7 @@ GLOBAL_IMG_URL = getenv(
 
     "GLOBAL_IMG_URL",
 
-    "assets/Global.jpeg",
+    "https://graph.org/file/0f98cb2a074cef7e30af1.jpg",
 
 )
 
@@ -248,7 +248,7 @@ STATS_IMG_URL = getenv(
 
     "STATS_IMG_URL",
 
-    "assets/Stats.jpeg",
+    "https://graph.org/file/0f98cb2a074cef7e30af1.jpg",
 
 )
 
