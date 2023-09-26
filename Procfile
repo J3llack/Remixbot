@@ -1,1 +1,2 @@
-worker: python3 -m ArchMusic
+worker1: python3 -m ArchMusic
+python3: /usr/bin/ ArchMusic
