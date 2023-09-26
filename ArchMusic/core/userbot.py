@@ -63,15 +63,15 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ARCH_SUPPORTS")
-                await self.one.join_chat("ARCH_SUPPORTS")
-                await self.one.join_chat("ARCH_SUPPORTS")
+                await self.one.join_chat("goktugunmalikanesi")
+                await self.one.join_chat("goktugunmalikanesi")
+                await self.one.join_chat("goktugunmalikanesi")
             except:
                 pass
             assistants.append(1)
             try:
                 await self.one.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Asistan ¹ Başlatılıyor 😎"
                 )
             except:
                 LOGGER(__name__).error(
@@ -94,15 +94,15 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ARCH_SUPPORTS")
-                await self.two.join_chat("ARCH_SUPPORTS")
-                await self.two.join_chat("ARCH_SUPPORTS")
+                await self.two.join_chat("goktugunmalikanesi")
+                await self.two.join_chat("goktugunmalikanesi")
+                await self.two.join_chat("goktugunmalikanesi")
             except:
                 pass
             assistants.append(2)
             try:
                 await self.two.send_message(
-                    config.LOG_GROUP_ID, "Assistant Started"
+                    config.LOG_GROUP_ID, "Asistan ² Başlatılıyor 😎"
                 )
             except:
                 LOGGER(__name__).error(
