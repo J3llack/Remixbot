@@ -130,7 +130,7 @@ gstats_4 : "**Bottaki Toplam İşlem Sayısı:** {0}\n\n{1} Şu Ana Kadar **{2}*
 gstats_5 : "**Top {0} Grup {1}:**\n\n"
 gstats_6 : "**Top {0} Kullanıcı {1}:**\n\n"
 gstats_7 : "Bu Grupta **{0}** Parça **{1}** Kez Çaldı.\n\nGruptaki Top {2} Parça :\n\n"
-gstats_8 : "**İstatistikler Yükleniyor... Bu Biraz Zaman Alabilir... 🫧**\n\n**O Zamana Kadar @Etikettagbot İle Etiket İşlemi yapabilirsiniz.** "
+gstats_8 : "**İstatistikler Yükleniyor... Bu Biraz Zaman Alabilir... 🕊️**\n\n**O Zamana Kadar @Etikettagbot İle Etiket İşlemi yapabilirsiniz.** "
 gstats_9 : "**BOTTAKİ TOP10 İSTATİSTİKLER**\n\nButonları Kullanarak İstediğiniz İstatistiği Görebilirsiniz. 🕊️"
 gstats_10 : "**Global İstatistikler {0}**\n\nButonları Kullanarak İstediğiniz İstatistiği Görebilirsiniz. 🕊️"
 gstats_11 : "** {0}unun Genel İstatistiklerini Görmek İçin Aşağıdaki Butona Tıklayabilirsiniz.** 🕊️"
