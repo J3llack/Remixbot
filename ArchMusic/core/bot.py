@@ -9,7 +9,7 @@ import config
 from ..logging import LOGGER
 
 class ArchMusic(Client):
-     def __init__(self):
+def __init__(self):
         LOGGER(__name__).info(f"Bot Başlatılıyor😎")
         super().__init__(
             "ArchMusic",
@@ -40,7 +40,7 @@ class ArchMusic(Client):
                 )
                 sys.exit()
 
-             if config.SET_CMDS == str(True):
+          if config.SET_CMDS == str(True):
                 try:
                     await self.set_bot_commands(
                         [
