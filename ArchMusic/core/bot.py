@@ -40,7 +40,7 @@ class ArchMusic(Client):
                 )
                 sys.exit()
 
-          if config.SET_CMDS == str(True):
+            if config.SET_CMDS == str(True):
                 try:
                     await self.set_bot_commands(
                         [
